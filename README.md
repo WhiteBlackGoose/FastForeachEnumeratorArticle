@@ -1,6 +1,8 @@
-## Материалы
+## Materials
 
-Статья на [хабре](https://habr.com/ru/post/575664/).
+Habr article:
+- [RU version](https://habr.com/ru/post/575664/)
+- [EN version](https://habr.com/en/post/575916/)
 
 ```
 BenchmarkDotNet=v0.13.1, OS=Windows 10.0.19042.1110 (20H2/October2020Update)
